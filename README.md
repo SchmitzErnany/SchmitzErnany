@@ -1,5 +1,7 @@
 ### Hello, I am Ernany! 👋
 
+*Machine learning engineer and Software Developer at Kunumi*
+
 <div>
 <a href="https://github.com/SchmitzErnany">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&layout=compact&langs_count=7&theme=dracula"/>
