@@ -4,23 +4,18 @@
 
 <br>
 
-**Languages used in Github**
-<div>
-<a href="https://github.com/SchmitzErnany">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
-<br>
+**Languages in Github**
 
-<!-- **Additional languages and tools**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&hide=Macaulay2&theme=default)](https://github.com/SchmitzErnany)
+
+
+<!-- **Additional Languages and Tools**
 <br> -->
 
-**Github stats**
-<div>
-<a href="https://github.com/SchmitzErnany">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SchmitzErnany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+**Github Stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true)](https://github.com/SchmitzErnany)
+
 
 <!--
 **SchmitzErnany/SchmitzErnany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...d
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
