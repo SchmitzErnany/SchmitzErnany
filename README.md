@@ -1,11 +1,25 @@
 ### Hello, I am Ernany! 👋
 
-*Machine learning engineer and Software Developer at Kunumi*
+*Machine learning engineer and Software Developer at [Kunumi](https://www.kunumi.com/)*
 
+<br>
+
+**Languages used in Github**
 <div>
 <a href="https://github.com/SchmitzErnany">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
+<br>
+
+<!-- **Additional languages and tools**
+<br> -->
+
+**Github stats**
+<div>
+<a href="https://github.com/SchmitzErnany">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SchmitzErnany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
 
 <!--
