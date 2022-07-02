@@ -1,33 +1,57 @@
-### Hello, I am Ernany! 👋
+# Hello, I'm Ernany! 👋
 
 *Machine learning engineer and Software Developer at [Kunumi](https://www.kunumi.com/)*
 
 <br>
 
-**Languages in Github**
+Languages and Tools
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&hide=Macaulay2&theme=default)](https://github.com/SchmitzErnany)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&hide=Macaulay2&layout=compact&theme=default)](https://github.com/SchmitzErnany)
 
 
-<!-- **Additional Languages and Tools**
-<br> -->
+**Additional Languages and Tools**
 
-**Github Stats**
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+</div>
+
+<br>
+
+**I am currently learning**
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+</div>
+
+<br>
+
+Github Stats
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true)](https://github.com/SchmitzErnany)
 
+<br>
 
-<!--
-**SchmitzErnany/SchmitzErnany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How to reach me
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/schmitzernany">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
