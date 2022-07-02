@@ -4,13 +4,13 @@
 
 <br>
 
-### Languages and Tools
----
+### *Languages and Tools*
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&hide=Macaulay2&layout=compact&theme=default)](https://github.com/SchmitzErnany)
 
 
-**Additional Languages and Tools**
+*Additional Languages and Tools*
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -33,7 +33,7 @@
 
 <br>
 
-**I am currently learning**
+*I am currently learning*
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -42,16 +42,16 @@
 
 <br>
 
-### Github Stats
----
+### *Github Stats*
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true)](https://github.com/SchmitzErnany)
 
 <br>
 
-### **How to reach me**
----
+### *How to reach me*
+
 
 <a href="https://www.linkedin.com/in/schmitzernany">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
 </a>
