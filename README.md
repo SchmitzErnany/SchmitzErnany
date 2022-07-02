@@ -1,10 +1,10 @@
-# Hello, I'm Ernany! 👋
+### Hello, I'm Ernany! 👋
 
 *Machine learning engineer and Software Developer at [Kunumi](https://www.kunumi.com/)*
 
 <br>
 
-Languages and Tools
+### Languages and Tools
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmitzErnany&hide=Macaulay2&layout=compact&theme=default)](https://github.com/SchmitzErnany)
@@ -42,14 +42,14 @@ Languages and Tools
 
 <br>
 
-Github Stats
+### Github Stats
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true)](https://github.com/SchmitzErnany)
 
 <br>
 
-How to reach me
+### **How to reach me**
 ---
 
 <a href="https://www.linkedin.com/in/schmitzernany">
