@@ -4,6 +4,12 @@
 
 <br>
 
+Before becoming software and machine learning engineer, for several years I worked in Theoretical Physics, having done my Masters and PhD in
+that area. After defending my PhD (2018, Germany) thesis, I decided to take a turn on my career and migrate to the modern areas of Data
+Science, Artificial Intelligence and Software Development which are spreading fast in the industry.
+
+<br>
+
 ### *Languages and Tools*
 
 
@@ -45,7 +51,7 @@
 ### *Github Stats*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true)](https://github.com/SchmitzErnany)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/SchmitzErnany)
 
 <br>
 
