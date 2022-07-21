@@ -51,7 +51,7 @@ Science, Artificial Intelligence and Software Development which are spreading fa
 ### *Github Stats*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/SchmitzErnany)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchmitzErnany&theme=default&count_private=true&include_all_commits=false&show_icons=true)](https://github.com/SchmitzErnany)
 
 <br>
 
